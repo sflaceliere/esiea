@@ -1,0 +1,16 @@
+Conjecture de Syracuse
+24
+12
+6
+3
+10
+5
+16
+8
+4
+2
+1
+4
+2
+1
+on est arrivé à 1 au bout de 10 itérations
